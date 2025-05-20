@@ -1,2 +1,2 @@
 # MicroserviceA
-This will contain a README file that will serve as a communication contract for my teammate, who I am writing this microservice for
+![image](https://github.com/user-attachments/assets/245f5dd6-894d-4704-972e-2dc1b28dce9e)
